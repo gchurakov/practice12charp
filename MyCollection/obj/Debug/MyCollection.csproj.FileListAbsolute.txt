@@ -1,0 +1,6 @@
+/Users/admin/RiderProjects/practice12/MyCollection/bin/Debug/MyCollection.dll
+/Users/admin/RiderProjects/practice12/MyCollection/bin/Debug/MyCollection.pdb
+/Users/admin/RiderProjects/practice12/MyCollection/obj/Debug/MyCollection.csproj.AssemblyReference.cache
+/Users/admin/RiderProjects/practice12/MyCollection/obj/Debug/MyCollection.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/practice12/MyCollection/obj/Debug/MyCollection.dll
+/Users/admin/RiderProjects/practice12/MyCollection/obj/Debug/MyCollection.pdb

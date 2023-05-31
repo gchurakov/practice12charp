@@ -1,0 +1,9 @@
+/Users/admin/RiderProjects/practice12/practice12/bin/Debug/practice12.exe
+/Users/admin/RiderProjects/practice12/practice12/bin/Debug/practice12.pdb
+/Users/admin/RiderProjects/practice12/practice12/bin/Debug/EngineLib.dll
+/Users/admin/RiderProjects/practice12/practice12/bin/Debug/EngineLib.pdb
+/Users/admin/RiderProjects/practice12/practice12/obj/Debug/practice12.csproj.AssemblyReference.cache
+/Users/admin/RiderProjects/practice12/practice12/obj/Debug/practice12.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/practice12/practice12/obj/Debug/practice12.csproj.CopyComplete
+/Users/admin/RiderProjects/practice12/practice12/obj/Debug/practice12.exe
+/Users/admin/RiderProjects/practice12/practice12/obj/Debug/practice12.pdb
